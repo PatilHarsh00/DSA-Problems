@@ -1,0 +1,7 @@
+Problem Statements
+
+Problem 1: Max till i
+Given an arraya[] of size n. For every i from 0 to n-1 output max(a[0],a[1],..,a[i])
+
+Problem 2: Sum of all SubArrays
+Given an array a[] of size n. Output sum of each subarray of the given array.
